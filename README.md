@@ -6,7 +6,7 @@ git config --global user.name 野c
 
 git config --global credentail.helper store
 
-git config --global user.email 1772415512@qq.com
+git config --global user.email 1@qq.com
 ```
 
 #### 解决乱码
@@ -48,7 +48,7 @@ xcopy my01 my01-ssh /E /H /Y
   Enter same passphrase again:
   再一次输入密码
   
-  SHA256:1NCYPEKo2pLuvqJxc2bOD4UyFjzY1eu4Sd4c37CSguo a@win
+  SHA256:1NCYP
   指纹
   
   git clone git@github.com:yecaobupashao/my01.git
